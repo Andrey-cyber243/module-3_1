@@ -29,38 +29,3 @@ print(calls)
 
 
 
-
-
-
-
-
-
-
-#print string_info(string,list_to_search)
-#print(calls)
-#a = (len('calls'))
-#b = 'calls'.upper()
-#c = 'calls'.lower()
-#print(string_info())
-#print(a,b,c)
-
-#def is_contains():
-
-
-
-
-#a = 5
-#b = 6
-
-#def printer():
-    #a = 'str'
-    #b = 'str2'
-    #c = 15
-    #d = 20
-    #print(c, d, 'local')
-    #print(a, b, 'global')
-#print(a, b)
-#printer()
-#print(a, b)
-
-
